@@ -2,6 +2,11 @@
 
 Static single-page site for **aktunes.com** (AK — bass music producer), served from GitHub Pages.
 
+## Live
+
+- 🌐 **Site:** https://aktunes.com
+- 📄 **GitHub Pages URL:** https://ak--47.github.io/aktunes/
+
 ## Deploy
 
 Push to `main` → the [Pages workflow](.github/workflows/pages.yml) publishes the repo root
